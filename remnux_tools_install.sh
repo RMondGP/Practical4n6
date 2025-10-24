@@ -858,7 +858,7 @@ apt-get autoremove -y
 apt-get clean
 
 echo ""
-echo "Please add /opt/remnux-tools to $PATH"
+echo "Please add /opt/remnux-tools to \$PATH"
 echo "Ensure activation of python virtual environment by activating"
 echo "     source /opt/remnux-tools/venv/bin/activate     "
 echo ""
@@ -866,3 +866,4 @@ echo ""
 print_status "All done! Happy malware hunting!"
 
 echo ""
+
