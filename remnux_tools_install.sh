@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#Author: Raymond Garay-Paravisini
+#Author: Ray Mon
 #Human and AI written
 #
 # REMnux Tools Installation Script
@@ -864,4 +864,5 @@ echo "     source /opt/remnux-tools/venv/bin/activate     "
 echo ""
 echo ""
 print_status "All done! Happy malware hunting!"
+
 echo ""
